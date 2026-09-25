@@ -1,4 +1,5 @@
- EXERCÍCIO 1 - COMPRINHAS ONLINE
+// ==========================================
+EXERCÍCIO 1 - COMPRINHAS ONLINE
 // ==========================================
 
 function calculaValorTotalDaCompra(produtos, cidade, caixa, fretes) {
